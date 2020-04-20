@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="fori" key=".for" provider="builtin.java" builtin="fori" />
+  </component>
+</application>

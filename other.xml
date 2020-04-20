@@ -1,0 +1,143 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="280" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 4 Platform" />
+    <property name="ColorChooser.RecentColors" value="25-65-12-255,,,58-61-65-255,,,26-65-36-255,,,225-112-214-255,,,0-145-225-255,,,56-225-96-255,,,12-225-121-255,,,38-56-187-255,,,86-225-62-255,,,187-184-36-255,,,6-225-132-255,,,0-127-48-255,,,74-50-127-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.13043478" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="C File Header" />
+    <property name="KEYMAP" value="" />
+    <property name="LOG_FILTER_HISTORY" value="System.out&#10;vivi&#10;http&#10;BindFirebaseModel&#10;TcStaticsAgent" />
+    <property name="LOG_FILTER_MESSAGE_HISTORY" value="http&#10;http_" />
+    <property name="LOG_FILTER_PACKAGE_NAME_HISTORY" value="com.transsnetfinancial.palmcredit" />
+    <property name="LOG_FILTER_TAG_HISTORY" value="http&#10;http_&#10;vivi" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="19" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="PLUGIN_FILTER" value="plantuml&#10;plant&#10;UML&#10;MVPplugin&#10;MVP" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.38696256" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.transsnet" />
+    <property name="SAVED_COMPANY_DOMAIN" value="transsnet.com" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SearchEveryWhereHistory" value="re&#10;上&#10;de&#10;是&#10;入口来" />
+    <property name="SettingsSearchHistory" value="font&#10;java&#10;build&#10;grad&#10;lint" />
+    <property name="android-component-compatibility-check" value="1587372038844" />
+    <property name="android.apk.viewer" value="0.449827" />
+    <property name="android.psd.proportion.modules" value="0.3778878" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="135" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="create.member.preselect.anonymous" value="true" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="entityPackName" value="com.trassnet.palmcredit.model.bean." />
+    <property name="errorCount" value="0" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="F:/KiKa/app/debug.keystore&#10;C:/Users/M707XVPV/Desktop/1.7.0&#10;C:/Users/M707XVPV/Desktop/2.0.0&#10;D:/SourceDemo/MyFireBaseDemo&#10;E:/test&#10;E:/X-Cross&#10;E:/装机Apk&#10;E:/&#10;F:/&#10;F:/GitDemo&#10;F:/TestApplication&#10;C:/Users/M707XVPV/Desktop/1.6.2&#10;F:/palmcredit-android/app/debug.keystore&#10;F:/palmcredit-android/app/palmcredit.keystore&#10;C:/Users/M707XVPV/Desktop/绩效考核&#10;C:/Users/M707XVPV/Desktop/V1.6.1&#10;C:/Users/M707XVPV/Desktop&#10;C:/Users/M707XVPV/Desktop/fbvideo&#10;C:/Users/M707XVPV/Desktop/V1.6.0&#10;F:/lottie&#10;F:/palmcredit-android/lottie&#10;C:/Users/M707XVPV/Desktop/v1.5.5&#10;C:/Users/M707XVPV/Desktop/v1.5.5/1.6.0&#10;F:/palmcredit-android&#10;E:/palmcredit-android/app/puml/couponsSkip.puml&#10;E:/palmcredit-android/app/puml/coupons.puml&#10;C:/Users/M707XVPV/Desktop/mylibrary-release.aar&#10;C:/Users/M707XVPV/Desktop/PalmStore1.5.5&#10;E:/palmcredit-android/app/palmcredit.keystore&#10;E:/palmcredit-android/app/debug.keystore" />
+    <property name="file.gist.reindex.count" value="94833" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="find.popup.splitter" value="0.65797544" />
+    <property name="generateComments" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="kotlin.lastUpdateCheck" value="1587093661428" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="last.imported.location" value="F:/palmcredit-1/palmcredit-android" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-4.6" />
+    <property name="lastTip" value="1" />
+    <property name="newly.installed.api.level" value="16" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="param.hints.settings.last.edited.language" value="Groovy" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="psd.dependencies.main.vertical.splitter.proportion" value="0.46010637" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="LOGCAT_VERBOSE_OUTPUT" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="splitGenerate" value="false" />
+    <property name="studio.profilerSESSION_IS_COLLAPSED" value="true" />
+    <property name="suffixStr" value="Bean" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.46162048" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.58528787" />
+    <property name="vcs.log.details.splitter.proportion" value="0.80717486" />
+    <property name="virgoMode" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/GodLike1113/FirebaseDemo.git" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/GodLike1113/FirebaseDemo.git" />
+        <option value="https://github.com/GodLike1113/gitDemo.git" />
+        <option value="https://github.com/GodLike1113/mvpDemo.git" />
+      </list>
+    </option>
+  </component>
+</application>
