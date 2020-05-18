@@ -34,6 +34,10 @@
           <option name="url" value="http://git.helloaf.com:10080" />
           <option name="userName" value="zengfeng" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.helloaf.com:10080/Android/easybuy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
