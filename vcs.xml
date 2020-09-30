@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/GodLike1113/ScaleViewpager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.helloaf.com:10080/Android/palmcredit2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
