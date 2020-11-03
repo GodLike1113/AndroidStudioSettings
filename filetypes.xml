@@ -5,6 +5,7 @@
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping pattern="credit_app" type="SQL" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
