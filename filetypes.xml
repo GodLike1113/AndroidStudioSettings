@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="keytool" type="PLAIN_TEXT" />
+      <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
