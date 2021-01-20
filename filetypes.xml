@@ -11,6 +11,7 @@
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping pattern="credit_app" type="SQL" />
       <mapping ext="db" type="SQL" />
+      <mapping pattern="exit_set_pwd_tip_dialog" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
