@@ -7,6 +7,7 @@
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="multidex-config" type="PLAIN_TEXT" />
       <mapping pattern="maindexlist" type="PLAIN_TEXT" />
+      <mapping pattern="集成说明" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping pattern="credit_app" type="SQL" />
