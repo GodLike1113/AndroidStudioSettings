@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="strings" type="PLAIN_TEXT" />
       <mapping pattern="keytool" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="bugly_db_" type="PLAIN_TEXT" />
       <mapping pattern="multidex-config" type="PLAIN_TEXT" />
       <mapping pattern="maindexlist" type="PLAIN_TEXT" />
