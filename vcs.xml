@@ -66,6 +66,10 @@
           <option name="url" value="http://git.helloaf.com:10080/huangjie/pluginlib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.helloaf.com:10080/Android/Palmcredit/NG/xcrosscash.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\" />
